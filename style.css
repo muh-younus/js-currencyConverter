@@ -13,3 +13,60 @@ body{
     background-color: #f4e4ba;
 
 }
+
+.container{
+
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 46vh;
+    width: 30%;
+    line-height: 2rem;
+
+}
+
+form{
+
+   margin: 2rem 0 1rem 0; 
+}
+
+form select,input,button{
+
+    width: 100%;
+    border: none;
+    outline: none;
+  
+}
+
+form input{
+
+    border: 1px solid lightgray;
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 0.5rem; 
+}
+
+.drop-down{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.select-container img{
+
+    max-width: 3rem;
+    
+}
+
+.select-container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+
+    /* background-color: red; */
+}
