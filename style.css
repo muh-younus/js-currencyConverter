@@ -70,3 +70,12 @@ form input{
 
     /* background-color: red; */
 }
+
+form button{
+
+    padding: 0.7rem 3rem;
+    border-radius: 0.6rem;
+    font-weight: bolder;
+    background-color: rgb(11, 82, 82);
+    color: white;
+}
